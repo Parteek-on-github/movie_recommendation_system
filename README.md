@@ -45,7 +45,7 @@ movie-recommender-system/
 
 1. Clone the repository:
 
-git clone https://github.com/parteek-on-code/movie-recommender-system.git
+git clone https://github.com/Parteek-on-github/movie-recommender-system.git
 cd movie-recommender-system
 
 2. Install dependencies
